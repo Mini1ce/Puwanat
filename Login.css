@@ -1,0 +1,8 @@
+.box{
+    align-items: center;
+
+}
+ul{
+    overflow-y: hidden;
+    list-style: none;
+}

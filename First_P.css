@@ -1,0 +1,30 @@
+header{
+    border: 1px solid;
+    background-color: lightblue;
+    text-align: left ;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(39, 39, 38);
+    color: white;
+    margin-top: 5px;
+    padding: 5px;
+}
+.Pic{
+    width: 100%;
+    height: 30%;
+
+}
+.Bt{
+    text-align: right;
+    color: lightblue;
+    transition: 0.3s;
+    padding: 10px;
+}
+nav{
+    
+    padding-right: 10px;
+    margin-right: 10px;
+    float: left;
+}
